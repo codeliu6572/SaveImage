@@ -15,6 +15,7 @@
 		685457461DCAD18C00726D3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 685457441DCAD18C00726D3F /* LaunchScreen.storyboard */; };
 		685457511DCAD18C00726D3F /* SaveImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 685457501DCAD18C00726D3F /* SaveImageTests.m */; };
 		6854575C1DCAD18C00726D3F /* SaveImageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6854575B1DCAD18C00726D3F /* SaveImageUITests.m */; };
+		6854576A1DCAD62A00726D3F /* fire.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 685457691DCAD62A00726D3F /* fire.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		685457571DCAD18C00726D3F /* SaveImageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SaveImageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6854575B1DCAD18C00726D3F /* SaveImageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveImageUITests.m; sourceTree = "<group>"; };
 		6854575D1DCAD18C00726D3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		685457691DCAD62A00726D3F /* fire.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fire.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				6854573A1DCAD18C00726D3F /* AppDelegate.m */,
 				6854573C1DCAD18C00726D3F /* ViewController.h */,
 				6854573D1DCAD18C00726D3F /* ViewController.m */,
+				685457691DCAD62A00726D3F /* fire.jpg */,
 				6854573F1DCAD18C00726D3F /* Main.storyboard */,
 				685457421DCAD18C00726D3F /* Assets.xcassets */,
 				685457441DCAD18C00726D3F /* LaunchScreen.storyboard */,
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				685457461DCAD18C00726D3F /* LaunchScreen.storyboard in Resources */,
+				6854576A1DCAD62A00726D3F /* fire.jpg in Resources */,
 				685457431DCAD18C00726D3F /* Assets.xcassets in Resources */,
 				685457411DCAD18C00726D3F /* Main.storyboard in Resources */,
 			);
